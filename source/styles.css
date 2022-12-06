@@ -1,4 +1,10 @@
-body {
+h1 {
+  font-size: 55px;
+  font-family: "Lobster Two", cursive;
+}
+h2,
+h3 {
+  font-family: "Dancing Script", cursive;
 }
 header {
   float: right;
